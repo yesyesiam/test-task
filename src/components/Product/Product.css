@@ -1,0 +1,9 @@
+.active-price{
+    font-weight: bolder;
+}
+
+
+.inactive-price{
+    text-decoration: line-through;
+    font-size: small;
+}
